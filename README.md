@@ -30,12 +30,12 @@ LOC(zbirni za fajlove Calculator i Start)=188+26=214
 File Calculator
 Cognitive complexiy: 45
 
-File	 	    FunctionName		          StartLine	  EndLine		Cyclomatic complexity
-Calculator	Operations::Operations	    15		      16			  1 (jednostavan kod, izuzetno nizak rizik)
-Calculator	Operations::ToString	      18 		      20			  1 (jednostavan kod, izuzetno nizak rizik)
-Calculator	Run			                    24		      26			  1 (jednostavan kod, izuzetno nizak rizik)
-Calculator	evaluateExpression	        28		      72			  12 (umereno kompleksan kod,umeren rizik)
-Calculator	Calculate		                74		      186			12  (umereno kompleksan kod,umeren rizik)
+File	 	    FunctionName		         		
+Calculator	Operations::Operations	      Cyclomatic complexity:  1 (jednostavan kod, izuzetno nizak rizik)
+Calculator	Operations::ToString	      Cyclomatic complexity: 1 (jednostavan kod, izuzetno nizak rizik)
+Calculator	Run			      Cyclomatic complexity: 1 (jednostavan kod, izuzetno nizak rizik)
+Calculator	evaluateExpression	      Cyclomatic complexity: 12 (umereno kompleksan kod,umeren rizik)
+Calculator	Calculate		      Cyclomatic complexity: 12  (umereno kompleksan kod,umeren rizik)
 
 
 File Start
